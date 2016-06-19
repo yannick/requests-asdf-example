@@ -5,7 +5,7 @@
 	],
 	"dependencies": {
 		"asdf": "~>0.0.8",
-		"requests": "~>0.1.6"
+		"requests": "~>0.1.8"
 	},
 	"description": "download and work with json data",
 	"copyright": "Copyright © 2016, yannick",
